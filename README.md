@@ -1,2 +1,0 @@
-# begin-prueba
-Begin app
